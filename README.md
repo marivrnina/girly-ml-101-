@@ -1,8 +1,9 @@
 # Girly ML 101 💖🤖
 
-Machine learning models for real life situations.
+Machine learning models for real life situations from my Instagram.
 
 Projects in this repository:
+- 5 ML libraries
 - Sephora spending prediction
 - Mood prediction
 - Your Matcha spendings for the next week
