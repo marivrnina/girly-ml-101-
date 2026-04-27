@@ -3,6 +3,8 @@
 Machine learning models for real life situations from my Instagram.
 
 Projects in this repository:
+- Regression models for beginners
+- EDA in 10 steps
 - 5 ML libraries
 - Sephora spending prediction
 - Mood prediction
